@@ -1,0 +1,2 @@
+# jupyterMCP
+JupyterMCP，允许通过MCP（Model Control Protocol）接口远程控制和操作Jupyter笔记本。该项目提供了一个sse协议的MCP，使AI助手或其他应用程序能够以编程方式创建、编辑和执行Jupyter笔记本单元格。
